@@ -15,7 +15,7 @@ torchaudio>=2.0.0
 huggingface_hub
 tqdm
 transformers
-#xformers
+xformers
 demucs
 librosa
 gradio==3.27.0
